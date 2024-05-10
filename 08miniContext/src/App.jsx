@@ -9,6 +9,7 @@ function App() {
       <h1>React ContextApi Recap</h1>
       <Login />
       <Profile />
+    
     </UserContextProvider>
   )
 }
